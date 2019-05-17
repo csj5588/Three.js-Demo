@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  overflow: hidden;
+}
+#percent {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 150px;
+  padding: 20px 0;
+  text-align: center;
+  color: red;
+  border: 1px solid red;
+}
